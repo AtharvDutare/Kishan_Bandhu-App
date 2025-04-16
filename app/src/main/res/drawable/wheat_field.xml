@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Sky background -->
+    <path
+        android:fillColor="#87CEEB"
+        android:pathData="M0,0h200v100h-200z" />
+
+    <!-- Field background -->
+    <path
+        android:fillColor="#F4D03F"
+        android:pathData="M0,100h200v100h-200z" />
+
+    <!-- Wheat stalks -->
+    <group>
+        <path
+            android:fillColor="#D4AC0D"
+            android:pathData="M20,120c0,0 5,-20 10,-30c5,10 10,30 10,30">
+        </path>
+        <path
+            android:fillColor="#D4AC0D"
+            android:pathData="M60,120c0,0 5,-20 10,-30c5,10 10,30 10,30">
+        </path>
+        <path
+            android:fillColor="#D4AC0D"
+            android:pathData="M100,120c0,0 5,-20 10,-30c5,10 10,30 10,30">
+        </path>
+        <path
+            android:fillColor="#D4AC0D"
+            android:pathData="M140,120c0,0 5,-20 10,-30c5,10 10,30 10,30">
+        </path>
+        <path
+            android:fillColor="#D4AC0D"
+            android:pathData="M180,120c0,0 5,-20 10,-30c5,10 10,30 10,30">
+        </path>
+    </group>
+
+    <!-- Wheat heads -->
+    <group>
+        <path
+            android:fillColor="#F1C40F"
+            android:pathData="M30,90l-3,-5l3,-5l3,5z">
+        </path>
+        <path
+            android:fillColor="#F1C40F"
+            android:pathData="M70,90l-3,-5l3,-5l3,5z">
+        </path>
+        <path
+            android:fillColor="#F1C40F"
+            android:pathData="M110,90l-3,-5l3,-5l3,5z">
+        </path>
+        <path
+            android:fillColor="#F1C40F"
+            android:pathData="M150,90l-3,-5l3,-5l3,5z">
+        </path>
+        <path
+            android:fillColor="#F1C40F"
+            android:pathData="M190,90l-3,-5l3,-5l3,5z">
+        </path>
+    </group>
+
+    <!-- Clouds -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,30c0,-8.28 6.72,-15 15,-15c6.21,0 11.53,3.77 13.76,9.15c1.82,-1.98 4.42,-3.15 7.24,-3.15c5.52,0 10,4.48 10,10c0,5.52 -4.48,10 -10,10h-36c-5.52,0 -10,-4.48 -10,-10c0,-5.52 4.48,-10 10,-10z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M140,40c0,-8.28 6.72,-15 15,-15c6.21,0 11.53,3.77 13.76,9.15c1.82,-1.98 4.42,-3.15 7.24,-3.15c5.52,0 10,4.48 10,10c0,5.52 -4.48,10 -10,10h-36c-5.52,0 -10,-4.48 -10,-10c0,-5.52 4.48,-10 10,-10z" />
+</vector> 

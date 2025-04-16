@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Background -->
+    <path
+        android:fillColor="#8BC34A"
+        android:pathData="M0,0h200v200h-200z"/>
+
+    <!-- Soybean plants -->
+    <group>
+        <path
+            android:fillColor="#4CAF50"
+            android:pathData="M20,200v-120c0,0 5,-20 20,-20s20,20 20,20v120z"/>
+        <path
+            android:fillColor="#81C784"
+            android:pathData="M30,70c-10,5 -5,15 0,15s10,-10 0,-15z"/>
+        <path
+            android:fillColor="#81C784"
+            android:pathData="M50,70c10,5 5,15 0,15s-10,-10 0,-15z"/>
+        <!-- Soybeans -->
+        <path
+            android:fillColor="#AED581"
+            android:pathData="M35,90a5,5 0 1,1 10,0a5,5 0 1,1 -10,0z"/>
+        <path
+            android:fillColor="#AED581"
+            android:pathData="M25,100a5,5 0 1,1 10,0a5,5 0 1,1 -10,0z"/>
+        <path
+            android:fillColor="#AED581"
+            android:pathData="M45,100a5,5 0 1,1 10,0a5,5 0 1,1 -10,0z"/>
+    </group>
+
+    <group>
+        <path
+            android:fillColor="#4CAF50"
+            android:pathData="M80,200v-100c0,0 5,-20 20,-20s20,20 20,20v100z"/>
+        <path
+            android:fillColor="#81C784"
+            android:pathData="M90,90c-10,5 -5,15 0,15s10,-10 0,-15z"/>
+        <path
+            android:fillColor="#81C784"
+            android:pathData="M110,90c10,5 5,15 0,15s-10,-10 0,-15z"/>
+        <!-- Soybeans -->
+        <path
+            android:fillColor="#AED581"
+            android:pathData="M95,110a5,5 0 1,1 10,0a5,5 0 1,1 -10,0z"/>
+        <path
+            android:fillColor="#AED581"
+            android:pathData="M85,120a5,5 0 1,1 10,0a5,5 0 1,1 -10,0z"/>
+        <path
+            android:fillColor="#AED581"
+            android:pathData="M105,120a5,5 0 1,1 10,0a5,5 0 1,1 -10,0z"/>
+    </group>
+
+    <group>
+        <path
+            android:fillColor="#4CAF50"
+            android:pathData="M140,200v-110c0,0 5,-20 20,-20s20,20 20,20v110z"/>
+        <path
+            android:fillColor="#81C784"
+            android:pathData="M150,80c-10,5 -5,15 0,15s10,-10 0,-15z"/>
+        <path
+            android:fillColor="#81C784"
+            android:pathData="M170,80c10,5 5,15 0,15s-10,-10 0,-15z"/>
+        <!-- Soybeans -->
+        <path
+            android:fillColor="#AED581"
+            android:pathData="M155,100a5,5 0 1,1 10,0a5,5 0 1,1 -10,0z"/>
+        <path
+            android:fillColor="#AED581"
+            android:pathData="M145,110a5,5 0 1,1 10,0a5,5 0 1,1 -10,0z"/>
+        <path
+            android:fillColor="#AED581"
+            android:pathData="M165,110a5,5 0 1,1 10,0a5,5 0 1,1 -10,0z"/>
+    </group>
+</vector> 

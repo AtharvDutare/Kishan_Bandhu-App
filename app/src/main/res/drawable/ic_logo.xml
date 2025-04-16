@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    
+    <!-- Plant stem -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M12,22c0,0 -5.5,-6 -5.5,-12.5c0,-3.59 2.91,-6.5 6.5,-6.5s6.5,2.91 6.5,6.5c0,6.5 -5.5,12.5 -5.5,12.5z" />
+    
+    <!-- Leaves -->
+    <path
+        android:fillColor="#8BC34A"
+        android:pathData="M12,3c-3.59,0 -6.5,2.91 -6.5,6.5c0,2.47 1.08,5.22 2.42,7.5h8.16c1.34,-2.28 2.42,-5.03 2.42,-7.5c0,-3.59 -2.91,-6.5 -6.5,-6.5zM12,11c-1.38,0 -2.5,-1.12 -2.5,-2.5s1.12,-2.5 2.5,-2.5s2.5,1.12 2.5,2.5s-1.12,2.5 -2.5,2.5z" />
+    
+    <!-- Scanner line -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M8.5,9.5h7v1h-7z" />
+</vector> 

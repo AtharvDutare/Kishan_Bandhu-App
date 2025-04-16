@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    
+    <!-- Leaf base -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M12,2C8,2 4,6 4,10C4,14 8,22 12,22C16,22 20,14 20,10C20,6 16,2 12,2Z"/>
+    
+    <!-- Disease spots -->
+    <path
+        android:fillColor="#F57C00"
+        android:pathData="M10,8m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0"/>
+    <path
+        android:fillColor="#F57C00"
+        android:pathData="M14,12m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0"/>
+    <path
+        android:fillColor="#F57C00"
+        android:pathData="M11,15m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0"/>
+    <path
+        android:fillColor="#F57C00"
+        android:pathData="M15,9m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0"/>
+</vector> 

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">trySample</string>
+    <string name="scan_now">Scan Now</string>
+    <string name="crop_health_status">Crop Health Status</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="weather">Weather</string>
+    <string name="seeds">Seeds</string>
+    <string name="profile">Profile</string>
+    <string name="marketplace">Marketplace</string>
+    <string name="search_weather">Search weather</string>
+    <string name="weather_conditions">Weather Conditions</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind</string>
+    <string name="rain">Rain</string>
+    <string name="recent_alerts">Recent Alerts</string>
+    <string name="scan">Scan</string>
+    <string name="stats">Stats</string>
+    <string name="charge_per_labor">Charge Per Labor</string>
+    <string name="contact_details">Contact Number</string>
+    <string name="location_service_provided">Location Service offered</string>
+    <string name="posted_successfully">Posted Successfully</string>
+</resources>
